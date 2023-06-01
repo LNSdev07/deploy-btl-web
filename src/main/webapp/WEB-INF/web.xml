@@ -6,10 +6,13 @@
 
     <context-param>
         <param-name>apiUrl</param-name>
-        <param-value>https://quan-ly-diem-sinh-vien-btl-n8.herokuapp.com/api</param-value>
+        <param-value>https://btl-n8-quan-ly-diem-sv.herokuapp.com/api</param-value>
     </context-param>
 
-    
+<!--    <context-param>-->
+<!--        <param-name>apiUrl</param-name>-->
+<!--        <param-value>http://localhost:8080/api</param-value>-->
+<!--    </context-param>-->
 
     <welcome-file-list>
         <welcome-file>auth/login</welcome-file>
